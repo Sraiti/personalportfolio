@@ -70,35 +70,35 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "65%"
       },
       {
         "name": "Java",
-        "level": "95%"
+        "level": "70%"
       },
       {
         "name": "Git",
-        "level": "75%"
+        "level": "65%"
       },
       {
         "name": "JavaScript",
-        "level": "100%"
+        "level": "60%"
       },
       {
         "name": "Flutter",
-        "level": "100%"
+        "level": "70%"
       },
       {
         "name": "SQL",
-        "level": "100%"
+        "level": "85%"
       },
       {
         "name": "Firebase",
-        "level": "100%"
+        "level": "75%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "60%"
       }
     ]
   },
@@ -107,30 +107,30 @@
       {
         "title": "Food Delivery",
         "category": "a FoodDelivery web app made using Node js",
-        "image": "Square.png",
+        "image": "https://i.ibb.co/4VpXVw8/Square.png",
         "url": "https://github.com/Sraiti/FoodDelivery/"
       },
       {
         "title": "Online Quiz",
         "category": "An android Java app  multi-choice online quiz Application",
-        "image": "quiz.png",
+        "image": "https://i.ibb.co/xHN6YPp/quiz.png",
         "url": "https://github.com/Sraiti/QuizFireStore"
       },
       {
         "title": "FriendActive",
         "category": "An android Java app where you can know how much your friends knows about you through fun quizzes",
-        "image": "friendActive.jpg",
+        "image": "https://i.ibb.co/hf7FTNN/friend-Active.jpg",
         "url": "https://github.com/Sraiti/FriendActive"
       },
       {
         "title": "Wallpaper App",
         "category": "a FLutter Wallpaper app where you can browse,bookmark,download,share images",
-        "image": "wallpaper.png"
+        "image": "https://i.ibb.co/JmhVdLW/wallpaper.png"
       },
       {
         "title": "Music Player",
         "category": "MUsic player with bookmarking system and Uses Room",
-        "image": "Music.png"
+        "image": "https://i.ibb.co/rGVyq4R/music.png"
       }
     ]
   }

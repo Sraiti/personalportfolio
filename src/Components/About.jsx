@@ -3,7 +3,7 @@ class About extends Component {
   render() {
     if (this.props.data) {
       var name = this.props.data.name;
-      var profilepic = "../images/" + this.props.data.image;
+      var profilepic = "https://i.ibb.co/f9GKBf5/Naz.jpg";
       var bio = this.props.data.bio;
       var street = this.props.data.address.street;
       var city = this.props.data.address.city;
@@ -21,7 +21,7 @@ class About extends Component {
             <img
               className="profile-pic"
               src={profilepic}
-              alt="Tim Baker Profile Pic"
+              alt="Sraiti Profile Pic"
             />
           </div>
           <div className="nine columns main-col">
