@@ -1,5 +1,4 @@
 {
-  "homepage": "https://Sraiti.github.io/personalportfolio",
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +14,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -b main -d build",
     "eject": "react-scripts eject"
   },
   "browserslist": {
